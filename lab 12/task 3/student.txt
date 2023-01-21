@@ -1,0 +1,46 @@
+Student id: k226007
+ Student name: Syed Yousha
+ Student gender: male
+ Student Quiz 1 marks: 30
+ Student Quiz 2 marks: 30
+ Student Mid-term marks: 50
+ Student Finals marks: 100
+ Student Total marks: 100
+ 
+ Student id: Muhammad Yasir
+ Student name: k225090
+ Student gender: male
+ Student Quiz 1 marks: 30
+ Student Quiz 2 marks: 30
+ Student Mid-term marks: 50
+ Student Finals marks: 100
+ Student Total marks: 100
+ 
+ Student id: Abdul Haseeb
+ Student name: k225069
+ Student gender: male
+ Student Quiz 1 marks: 30
+ Student Quiz 2 marks: 30
+ Student Mid-term marks: 50
+ Student Finals marks: 100
+ Student Total marks: 100
+ 
+ Student id: k225050
+ Student name: Muhammad asim
+ Student gender: male
+ Student Quiz 1 marks: 30
+ Student Quiz 2 marks: 30
+ Student Mid-term marks: 50
+ Student Finals marks: 100
+ Student Total marks: 100
+ 
+ Student id: k226007
+ Student name: syed Yousha
+ Student gender: male
+ Student Quiz 1 marks: 50
+ Student Quiz 2 marks: 50
+ Student Mid-term marks: 50
+ Student Finals marks: 80
+ Student Total marks: 100
+ 
+ 
